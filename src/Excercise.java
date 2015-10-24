@@ -4,8 +4,8 @@ public class Excercise {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Object num = askforNum();
-		System.out.println("You entered " + askforNum());
+		//Object num = askforNum();
+		//System.out.println("You entered " + askforNum()); 
 	}
 
 	private static void askforNum() {
