@@ -1,0 +1,24 @@
+1. Write	(and test!) a class method that will ask the operator for a real
+number; print	an error message if the operator’s	input cannot be
+converted to type double.
+
+2. Write a program that expects	a comma-delimited string	of values	to
+be passed from the	command line; parse the string	and print each
+value.	Make	sure	you	handle	the	edge	cases	(null	string,	empty	
+string,	etc.).
+
+3. Write	a program that
+	1. writes	20 lines	of data	to a file.
+	2. Opens the file for reading, and prints	the contents	line by line.
+
+4. Write	a program that asks the operator (via stdin) for a list of
+integers, then computes and prints	the average of the numbers.
+Validate all input;	if there is an	invalid	token print	an error message
+and ask for the list	again.
+
+5. A)	Write	a program that repeatedly	prompts the operator for a line of
+data,	then writes	the line to a file. End the loop when the operator
+enters “end.”
+
+5. B) Write	 a program to open the file and print	 the contents	 line by
+line.
